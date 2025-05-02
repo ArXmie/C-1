@@ -1,0 +1,14 @@
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.AssemblyInfoInputs.cache
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.AssemblyInfo.cs
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.csproj.CoreCompileInputs.cache
+C:\Users\IS\Desktop\RuhArteam\bin\Debug\net8.0\RuhArteam.exe
+C:\Users\IS\Desktop\RuhArteam\bin\Debug\net8.0\RuhArteam.deps.json
+C:\Users\IS\Desktop\RuhArteam\bin\Debug\net8.0\RuhArteam.runtimeconfig.json
+C:\Users\IS\Desktop\RuhArteam\bin\Debug\net8.0\RuhArteam.dll
+C:\Users\IS\Desktop\RuhArteam\bin\Debug\net8.0\RuhArteam.pdb
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.dll
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\refint\RuhArteam.dll
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.pdb
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\RuhArteam.genruntimeconfig.cache
+C:\Users\IS\Desktop\RuhArteam\obj\Debug\net8.0\ref\RuhArteam.dll
